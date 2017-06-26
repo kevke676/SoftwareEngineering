@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/gebruiker/Desktop/Software Engineering/INFSEN01-2-master/Assignment/Windows + C# + Monogame incomplete assignments/GUIapp - iteration 2 - TODO/GUIapp/Content/white_pixel.png</File>
+  </SourceFiles>
+</SourceFileCollection>
